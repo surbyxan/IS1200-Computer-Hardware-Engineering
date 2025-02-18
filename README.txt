@@ -4,7 +4,7 @@ tool chain also supplied by the course.
 
 Lab1 is done i MIPS assembly 
 
-Lab1-3 is done in C
+Lab 2-3 is done in C
 
 The project is developed to run on the chip kit and is an interpretation of the 
-classic game Flappy Bird. 
+classic game Flappy Bird. The project is done in C.
